@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/techlead/mysapp/mysapp.csproj",
+      "projectUniqueName": "/home/techlead/Desktop/FeedMe/mysapp.csproj",
       "projectName": "mysapp",
-      "projectPath": "/home/techlead/mysapp/mysapp.csproj",
+      "projectPath": "/home/techlead/Desktop/FeedMe/mysapp.csproj",
       "packagesPath": "/home/techlead/.nuget/packages/",
-      "outputPath": "/home/techlead/mysapp/obj/",
+      "outputPath": "/home/techlead/Desktop/FeedMe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/techlead/.nuget/NuGet/NuGet.Config"
